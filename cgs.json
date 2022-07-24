@@ -1,0 +1,8 @@
+{
+  "cgs": {
+    "bind": "[::]:80",
+    "ice": ["stun:stun.l.google.com:19302"],
+    "root": "./static"
+  },
+  "cge": "ws://[::1]:8080"
+}
